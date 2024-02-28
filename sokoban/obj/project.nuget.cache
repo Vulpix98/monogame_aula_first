@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mjrRvxV+jrG8qNkFBRcq22EOHQTPXHPLZPdDQ4t36qBDWty0xEY+I0iiCZpXrj+P9Qs+uPYhDpc37SP+WiaPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josefino\\Desktop\\escola\\2semestre\\c#\\monogame_aula_first\\sokoban\\sokoban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josefino\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Josefino\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
